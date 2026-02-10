@@ -1,6 +1,6 @@
 ### Hi there, I'm Stephanie 👋
 
-I am a Computer Science & Biology student at **Purdue Fort Wayne** bridging the gap between biological data and software engineering.
+I am a Computer Science & Biology student at **Purdue Fort Wayne** interested in modeling biological data, specifically aimed at the goal to develop and research breakthroughs in the treatment of schizophrenia and related disorders.
 
 Previously, I interned at **Microsoft**, where I learned to build scalable systems. Now, I apply those skills to **Computational Psychiatry**.
 
