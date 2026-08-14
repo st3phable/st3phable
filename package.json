@@ -1,0 +1,15 @@
+{
+  "name": "st3phable-profile-readme",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub profile README with local lint and live-preview tooling",
+  "scripts": {
+    "lint": "markdownlint-cli2 \"**/*.md\" \"#node_modules\"",
+    "lint:fix": "markdownlint-cli2 --fix \"**/*.md\" \"#node_modules\"",
+    "preview": "markserv --port 8080 --livereloadport 35729 ."
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "^0.14.0",
+    "markserv": "^1.17.4"
+  }
+}

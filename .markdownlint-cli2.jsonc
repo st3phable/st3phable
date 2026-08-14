@@ -1,0 +1,18 @@
+{
+  // Relax rules that are noisy for GitHub profile READMEs.
+  "config": {
+    "default": true,
+    // Profile READMEs commonly start with an h3 and use emphasis-as-heading.
+    "MD001": false,
+    "MD002": false,
+    "MD041": false,
+    // Allow inline HTML (badges, alignment) common on profile pages.
+    "MD033": false,
+    // Bare URLs are fine in profile links.
+    "MD034": false,
+    // Line length is not meaningful for a rendered profile.
+    "MD013": false
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules"]
+}

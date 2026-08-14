@@ -1,0 +1,11 @@
+{
+  "name": "Profile README preview",
+  "install": "npm install",
+  "terminals": [
+    {
+      "name": "markdown-preview",
+      "command": "npm run preview"
+    }
+  ],
+  "ports": [8080, 35729]
+}
