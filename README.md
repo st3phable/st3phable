@@ -6,4 +6,5 @@ I build software because I enjoy the rewarding process of system design. I've be
 - **[Neural Circuit Visualizer](https://github.com/st3phable/neural-visualizer)** — React simulation of E/I balance
 
 Previously interned at Microsoft where I worked on the Azure Identity Governance team.
+
 📫 **let's talk:** [connect@stephanierd.dev](mailto:connect@stephanierd.dev) · [stephanierd.dev](https://stephanierd.dev)
